@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Varshitha!
 
-I am an **Aspiring Developer** based in Anantapur, India. I'm currently exploring the world of version control and open-source development!
+I am an **Aspiring Developer** based in Anantapur, India. I'm currently exploring the world of version control and building my foundation in web development.
 
 ### 🛠 What I'm working with:
-* **Tools:** GitHub Desktop, Git
-* **Learning:** HTML, CSS, and JavaScript 
-* **Current Goal:** Completing my first few repositories and contributing to open source.
+* **Version Control:** Git & GitHub Desktop
+* **Learning:** HTML, CSS, and JavaScript
+* **Current Goal:** Building my first portfolio project and contributing to open source.
 
 ### 📈 My GitHub Stats:
 ![Varshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasmurthyv-star&show_icons=true&theme=radical)
