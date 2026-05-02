@@ -4,7 +4,7 @@ I am an **Aspiring Developer** based in Anantapur, India. I'm currently explorin
 
 ### 🛠 What I'm working with:
 * **Tools:** GitHub Desktop, Git
-* **Learning:** HTML, CSS, and JavaScript (or insert your current language here)
+* **Learning:** HTML, CSS, and JavaScript 
 * **Current Goal:** Completing my first few repositories and contributing to open source.
 
 ### 📈 My GitHub Stats:
